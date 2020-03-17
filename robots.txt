@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zisehouqua.efteraarslejr.dk/sitemap.xml
